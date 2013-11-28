@@ -1,0 +1,5 @@
+pyenv
+pyenv local 3.3.2
+cd workingdir
+pyenv virtualenv 3.3.2 env001-3.3.2
+pyenv uninstall env001-3.3.2
