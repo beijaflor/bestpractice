@@ -1,0 +1,11 @@
+[make new repo on server]
+
+sudo mkdir -p /var/git/repo
+sudo chmod -R 775 /var/git
+sudo chown -R user:wheel /var/git
+cd /var/git/repo
+git init --bare --shared=true
+
+[clone git from server]
+
+git clone ssh://user@host:22/var/git/repo/
