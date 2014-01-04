@@ -1,1 +1,1 @@
-compass create --bare --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "img"
+compass create --bare --syntax sass --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "img"

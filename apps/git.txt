@@ -9,3 +9,9 @@ git init --bare --shared=true
 [clone git from server]
 
 git clone ssh://user@host:22/var/git/repo/
+
+
+[update local from remote master]
+
+git fetch
+git merge origin/master
