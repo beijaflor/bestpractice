@@ -1,0 +1,24 @@
+# framework
+
+  -bootstrap
+
+# sample image genarator
+
+  - holder.js
+
+#  Asynchronous Load Module
+
+  - require.js
+    + http://requirejs.org/
+    + https://github.com/jrburke/requirejs
+
+# polyfill for media query ( ie6-8 )
+
+  - respond.js
+    + https://github.com/scottjehl/Respond
+
+
+# height setting
+
+  - jquery-lineup.js
+    + https://github.com/mach3/jquery-lineup
