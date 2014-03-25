@@ -1,0 +1,4 @@
+{
+  // Calculates indentation automatically when pressing enter
+  "auto_indent": false
+}
