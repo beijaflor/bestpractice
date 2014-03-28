@@ -1,12 +1,14 @@
 {
 	"installed_packages":
 	[
+		"Abacus",
 		"ConvertToUTF8",
 		"Emmet",
 		"IMESupport",
 		"Inline Calculator",
 		"Markdown Preview",
 		"Package Control",
+		"Pretty JSON",
 		"Sass",
 		"Sublimerge Pro",
 		"Syntax Highlighting for Sass",
