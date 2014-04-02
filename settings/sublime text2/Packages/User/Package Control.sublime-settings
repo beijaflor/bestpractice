@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Abacus",
+		"CoffeeScript",
 		"ConvertToUTF8",
 		"Emmet",
 		"IMESupport",
@@ -10,6 +11,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
+		"SublimeLinter",
 		"Sublimerge Pro",
 		"Syntax Highlighting for Sass",
 		"Terminal",
